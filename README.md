@@ -31,4 +31,4 @@ Mi meta es desarrollarme en el área de AIoT (Artificial Intelligence of Things)
 - **Discord:** javiz270.
 
 ---
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)
