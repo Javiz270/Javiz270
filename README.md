@@ -1,3 +1,4 @@
+[🇺🇸 English version](./README_EN.md)
 # ¡Hola! Soy Javier Santos 👋
 
 > Estudiante de TSU Desarrollo de Software Multiplataforma — con enfoque personal en IoT y ciberseguridad | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
