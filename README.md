@@ -1,10 +1,10 @@
 # ¡Hola! Soy Javier Santos 👋
 
-> Estudiante de TSU en Tecnologías de la Información – Desarrollo de Software | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
+> Estudiante de TSU Desarrollo de Software Multiplataforma — con enfoque personal en IoT y ciberseguridad | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
 
 Me apasiona construir soluciones donde el **software, el hardware y la seguridad** se cruzan. Con base previa en Mecatrónica, abordo los proyectos desde una perspectiva integral: desde el sensor hasta el dashboard.
 
-Mi enfoque actual está en **IoT, ciberseguridad y análisis de datos**, buscando desarrollarme en entornos de innovación tecnológica a nivel industrial.
+Mi enfoque actual está en **Desarrollo de softwareIoT, ciberseguridad y análisis de datos**, buscando desarrollarme en entornos de innovación tecnológica a nivel industrial.
 
 ---
 
