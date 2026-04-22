@@ -1,34 +1,86 @@
 # ¡Hola! Soy Javier Santos 👋
 
-Me apasiona la intersección entre el **desarrollo de software**, el **hardware** y la **Inteligencia Artificial**. Actualmente estudio TICs en la Universidad Tecnológica el Retoño, con una base sólida previa en Mecatrónica, lo que me permite abordar proyectos desde una perspectiva integral (AIoT).
+> Estudiante de TSU en Tecnologías de la Información – Desarrollo de Software | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
 
-### 🚀 En lo que estoy trabajando
-- 🤖 **Furibot**: Un bot de Discord multi-servidor desarrollado en Python y utilizando Supabase como infraestructura en la nube para la base de de datos , integrando la API de Gemini para funciones avanzadas.
-- 📡 **S.A.R.A.**: Mi próximo proyecto integrador enfocado en soluciones tecnológicas profesionales.
+Me apasiona construir soluciones donde el **software, el hardware y la seguridad** se cruzan. Con base previa en Mecatrónica, abordo los proyectos desde una perspectiva integral: desde el sensor hasta el dashboard.
 
-### 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, C++ (Arduino/ESP32), SQL, Java.
-- **IA y Datos:** Gemini API, procesamiento de datos en IoT.
-- **Hardware:** ESP32, Raspberry Pi, Arduino (protocolos Bluetooth y control de sensores).
-- **Herramientas:** PostgreSQL, Git, Linux (entornos locales para IA).
-
-### 🌐 Idiomas
-- **Español:** Nativo.
-- **Alemán:** A2
-- **Inglés:** [C1]
-- **Japonés:** N5 🇯🇵
-- **Otros:** Interés en Chino, Francés y Ruso.
-
-### 🎯 Mis Objetivos
-Mi meta es desarrollarme en el área de AIoT (Artificial Intelligence of Things) y Ciencia de Datos, aplicando el análisis predictivo y la telemetría para optimizar procesos tecnológicos. Busco realizar mis estadías profesionales en entornos donde la captura de datos de hardware se convierta en información valiosa para la toma de decisiones.aplicando mis conocimientos en entornos de innovación a nivel internacional.
+Mi enfoque actual está en **IoT, ciberseguridad y análisis de datos**, buscando desarrollarme en entornos de innovación tecnológica a nivel industrial.
 
 ---
 
-### 📫 Contacto
-- **LinkedIn:** www.linkedin.com/in/javier-santos-cervantes-5248461b3
+## 🚀 Proyectos activos
+
+### 📡 S.A.R.A. — Sistema de Acceso y Registro Automatizado
+Sistema IoT de control de acceso y gestión de recursos para espacios universitarios.
+- **Hardware:** 3 nodos ESP32 NodeMCU + sensores NFC PN532 (MicroPython)
+- **Backend:** FastAPI con arquitectura SOA, MySQL con lógica Anti-Passback
+- **Features:** APScheduler para reportes automáticos, dashboard de Business Intelligence
+- **Seguridad:** Autenticación NFC, control de acceso por roles, prevención de tailgating
+
+### 🤖 Furibot — Bot de moderación para Discord
+Bot de moderación multi-servidor con sistema de escalada automática de sanciones.
+- **Stack:** Python + Discord API + Supabase
+- **Lógica:** Sistema progresivo warn → mute → kick → ban con historial persistente
+- **En desarrollo:** Módulo de IA (Gemini API) para análisis de contexto y toma de decisiones automatizada, sistema de noticias automáticas por servidor
+
+### 🔒 Red LoRa Mesh — Comunicación cifrada sin internet
+Red de mensajería privada off-grid basada en LoRa 915MHz para Aguascalientes.
+- **Hardware:** Heltec WiFi LoRa 32 V3 (ESP32-S3 + SX1262)
+- **Protocolo:** Meshtastic con cifrado AES-128
+- **Objetivo:** Red mesh comunitaria, privada y descentralizada
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes**
+`Python` `C++ (Arduino/ESP32)` `MicroPython` `SQL` `Java` `JavaScript`
+
+**IoT & Hardware**
+`ESP32` `Raspberry Pi` `Arduino` `PN532 NFC` `LoRa SX1262` `Protocolos I2C/SPI/UART`
+
+**Backend & Datos**
+`FastAPI` `MySQL` `PostgreSQL` `Supabase` `REST APIs`
+
+**Seguridad**
+`Anti-Passback` `Autenticación NFC` `Control de acceso` `Cifrado AES`
+
+**Herramientas**
+`Git` `Linux` `EasyEDA` `PlatformIO` `Arduino IDE`
+
+**Aprendiendo**
+`Power BI` `Pandas` `Análisis de datos IoT`
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nivel |
+|--------|-------|
+| Español | Nativo |
+| Inglés | C1 |
+| Alemán | A2 |
+| Japonés | N5 |
+
+---
+
+## 🎯 Objetivos profesionales
+
+Busco desarrollarme en el área de **IoT industrial y ciberseguridad**, aplicando telemetría, autenticación segura y análisis de datos para optimizar procesos en entornos de manufactura e innovación tecnológica.
+
+Orientado a realizar estadías profesionales en empresas donde la captura de datos de hardware se convierta en información valiosa para la toma de decisiones — sectores automotriz, manufactura e industria 4.0.
+
+---
+
+## 📊 Estadísticas
+
+[![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)](https://github.com/Javiz270)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)](https://github.com/Javiz270)
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [linkedin.com/in/javier-santos-cervantes-5248461b3](https://www.linkedin.com/in/javier-santos-cervantes-5248461b3)
 - **Email:** javiersantos0125@gmail.com
-- **Discord:** javiz270.
-
----
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)
+- **Discord:** javiz270
