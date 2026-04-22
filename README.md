@@ -3,9 +3,8 @@
 Me apasiona la intersección entre el **desarrollo de software**, el **hardware** y la **Inteligencia Artificial**. Actualmente estudio TICs en la Universidad Tecnológica el Retoño, con una base sólida previa en Mecatrónica, lo que me permite abordar proyectos desde una perspectiva integral (AIoT).
 
 ### 🚀 En lo que estoy trabajando
-- 🤖 **Furibot**: Un bot de Discord multi-servidor desarrollado en Python y utilizando Supabase como infraestructura en la nube para la base de deatos , integrando la API de Gemini para funciones avanzadas.
+- 🤖 **Furibot**: Un bot de Discord multi-servidor desarrollado en Python y utilizando Supabase como infraestructura en la nube para la base de de datos , integrando la API de Gemini para funciones avanzadas.
 - 📡 **S.A.R.A.**: Mi próximo proyecto integrador enfocado en soluciones tecnológicas profesionales.
-- ⚡ **Movilidad Eléctrica**: Investigando la infraestructura para vehículos eléctricos y sistemas de energía solar.
 
 ### 🛠️ Tecnologías y herramientas
 - **Lenguajes:** Python, C++ (Arduino/ESP32), SQL, Java.
@@ -15,7 +14,7 @@ Me apasiona la intersección entre el **desarrollo de software**, el **hardware*
 
 ### 🌐 Idiomas
 - **Español:** Nativo.
-- **Alema:** A2
+- **Alemán:** A2
 - **Inglés:** [C1]
 - **Japonés:** N5 🇯🇵
 - **Otros:** Interés en Chino, Francés y Ruso.
