@@ -1,86 +1,86 @@
-[🇺🇸 English version](./README_EN.md)
-# ¡Hola! Soy Javier Santos 👋
+[🇲🇽 🇪🇸 Versión Español](./README.md)
+# Hi, I'm Javier Santos 👋
 
-> Estudiante de TSU Desarrollo de Software Multiplataforma — con enfoque personal en IoT y ciberseguridad | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
+> TSU Student — Information Technology & Software Development | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
 
-Me apasiona construir soluciones donde el **software, el hardware y la seguridad** se cruzan. Con base previa en Mecatrónica, abordo los proyectos desde una perspectiva integral: desde el sensor hasta el dashboard.
+I'm passionate about building solutions where **software, hardware, and security** intersect. With a background in Mechatronics, I approach projects from an end-to-end perspective — from the sensor to the dashboard.
 
-Mi enfoque actual está en **Desarrollo de softwareIoT, ciberseguridad y análisis de datos**, buscando desarrollarme en entornos de innovación tecnológica a nivel industrial.
+My current focus is **IoT, cybersecurity, and data analysis**, aiming to grow in industrial tech environments.
 
 ---
 
-## 🚀 Proyectos activos
+## 🚀 Active Projects
 
-### 📡 S.A.R.A. — Sistema de Acceso y Registro Automatizado
-Sistema IoT de control de acceso y gestión de recursos para espacios universitarios.
-- **Hardware:** 3 nodos ESP32 NodeMCU + sensores NFC PN532 (MicroPython)
-- **Backend:** FastAPI con arquitectura SOA, MySQL con lógica Anti-Passback
-- **Features:** APScheduler para reportes automáticos, dashboard de Business Intelligence
-- **Seguridad:** Autenticación NFC, control de acceso por roles, prevención de tailgating
+### 📡 S.A.R.A. — Automated Access and Resource System
+IoT access control and resource management system designed for university learning spaces.
+- **Hardware:** 3 ESP32 NodeMCU nodes + PN532 NFC sensors (MicroPython)
+- **Backend:** FastAPI with SOA architecture, MySQL with Anti-Passback logic
+- **Features:** APScheduler for automated reports, Business Intelligence dashboard
+- **Security:** NFC authentication, role-based access control, tailgating prevention
 
-### 🤖 Furibot — Bot de moderación para Discord
-Bot de moderación multi-servidor con sistema de escalada automática de sanciones.
+### 🤖 Furibot — Discord Moderation Bot
+Multi-server moderation bot with automatic progressive sanction escalation.
 - **Stack:** Python + Discord API + Supabase
-- **Lógica:** Sistema progresivo warn → mute → kick → ban con historial persistente
-- **En desarrollo:** Módulo de IA (Gemini API) para análisis de contexto y toma de decisiones automatizada, sistema de noticias automáticas por servidor
+- **Logic:** Progressive warn → mute → kick → ban system with persistent history
+- **In development:** AI module (Gemini API) for context analysis and automated decision-making, per-server automated news system
 
-### 🔒 Red LoRa Mesh — Comunicación cifrada sin internet
-Red de mensajería privada off-grid basada en LoRa 915MHz para Aguascalientes.
+### 🔒 LoRa Mesh Network — Encrypted off-grid communication
+Private off-grid messaging network based on LoRa 915MHz for Aguascalientes.
 - **Hardware:** Heltec WiFi LoRa 32 V3 (ESP32-S3 + SX1262)
-- **Protocolo:** Meshtastic con cifrado AES-128
-- **Objetivo:** Red mesh comunitaria, privada y descentralizada
+- **Protocol:** Meshtastic with AES-128 encryption
+- **Goal:** Community mesh network, private and decentralized
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
-**Lenguajes**
+**Languages**
 `Python` `C++ (Arduino/ESP32)` `MicroPython` `SQL` `Java` `JavaScript`
 
 **IoT & Hardware**
-`ESP32` `Raspberry Pi` `Arduino` `PN532 NFC` `LoRa SX1262` `Protocolos I2C/SPI/UART`
+`ESP32` `Raspberry Pi` `Arduino` `PN532 NFC` `LoRa SX1262` `I2C/SPI/UART protocols`
 
-**Backend & Datos**
+**Backend & Data**
 `FastAPI` `MySQL` `PostgreSQL` `Supabase` `REST APIs`
 
-**Seguridad**
-`Anti-Passback` `Autenticación NFC` `Control de acceso` `Cifrado AES`
+**Security**
+`Anti-Passback` `NFC Authentication` `Access Control` `AES Encryption`
 
-**Herramientas**
+**Tools**
 `Git` `Linux` `EasyEDA` `PlatformIO` `Arduino IDE`
 
-**Aprendiendo**
-`Power BI` `Pandas` `Análisis de datos IoT`
+**Learning**
+`Power BI` `Pandas` `IoT Data Analysis`
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-| Idioma | Nivel |
-|--------|-------|
-| Español | Nativo |
-| Inglés | C1 |
-| Alemán | A2 |
-| Japonés | N5 |
-
----
-
-## 🎯 Objetivos profesionales
-
-Busco desarrollarme en el área de **IoT industrial y ciberseguridad**, aplicando telemetría, autenticación segura y análisis de datos para optimizar procesos en entornos de manufactura e innovación tecnológica.
-
-Orientado a realizar estadías profesionales en empresas donde la captura de datos de hardware se convierta en información valiosa para la toma de decisiones — sectores automotriz, manufactura e industria 4.0.
+| Language | Level |
+|----------|-------|
+| Spanish | Native |
+| English | C1 |
+| German | A2 |
+| Japanese | N5 |
 
 ---
 
-## 📊 Estadísticas
+## 🎯 Professional Goals
 
-[![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)](https://github.com/Javiz270)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)](https://github.com/Javiz270)
+I'm looking to grow in **industrial IoT and cybersecurity**, applying telemetry, secure authentication, and data analysis to optimize processes in manufacturing and Industry 4.0 environments.
+
+Actively seeking internships at companies where hardware data capture becomes actionable intelligence — automotive, manufacturing, and tech sectors.
 
 ---
 
-## 📫 Contacto
+## 📊 Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)](https://github.com/Javiz270)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)](https://github.com/Javiz270)
+
+---
+
+## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/javier-santos-cervantes-5248461b3](https://www.linkedin.com/in/javier-santos-cervantes-5248461b3)
 - **Email:** javiersantos0125@gmail.com
