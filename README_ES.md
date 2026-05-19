@@ -1,4 +1,4 @@
-[🇺🇸 English Version](./README_EN.md)
+[🇺🇸 English Version](./README.md)
 
 # Hola, soy Javier Santos 👋
 
