@@ -1,87 +1,99 @@
-[🇺🇸 English version](./README_EN.md)
-# ¡Hola! Soy Javier Santos 👋
+[🇺🇸 English Version](./README_EN.md)
 
-> Estudiante de TSU Desarrollo de Software Multiplataforma — con enfoque personal en IoT y ciberseguridad | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
+# Hola, soy Javier Santos 👋
 
-Me apasiona construir soluciones donde el **software, el hardware y la seguridad** se cruzan. Con base previa en Mecatrónica, abordo los proyectos desde una perspectiva integral: desde el sensor hasta el dashboard.
+> Estudiante de TSU en Desarrollo de Software Multiplataforma | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
 
-Mi enfoque actual está en **Desarrollo de softwareIoT, ciberseguridad y análisis de datos**, buscando desarrollarme en entornos de innovación tecnológica a nivel industrial.
+Me apasiona construir soluciones donde el **software, el hardware y la seguridad** se intersectan. Después de dos cuatrimestres en Mecatrónica, migré a Desarrollo de Software — lo que me da una perspectiva de extremo a extremo: del sensor al dashboard.
+
+Mi enfoque actual es **IoT y sistemas embebidos**, con la meta de crecer en entornos de tecnología industrial donde los datos del hardware se convierten en inteligencia accionable.
 
 ---
 
-## 🚀 Proyectos activos
+## 🚀 Proyectos Activos
 
 ### 📡 S.A.R.A. — Sistema de Acceso y Registro Automatizado
-Sistema IoT de control de acceso y gestión de recursos para espacios universitarios.
-- **Hardware:** 3 nodos ESP32 NodeMCU + sensores NFC PN532 (MicroPython)
-- **Backend:** FastAPI con arquitectura SOA, MySQL con lógica Anti-Passback
-- **Features:** APScheduler para reportes automáticos, dashboard de Business Intelligence
-- **Seguridad:** Autenticación NFC, control de acceso por roles, prevención de tailgating
 
-### 🤖 Furibot — Bot de moderación para Discord
-Bot de moderación multi-servidor con sistema de escalada automática de sanciones.
-- **Stack:** Python + Discord API + Supabase
-- **Lógica:** Sistema progresivo warn → mute → kick → ban con historial persistente
-- **En desarrollo:** Módulo de IA (Gemini API) para análisis de contexto y toma de decisiones automatizada, sistema de noticias automáticas por servidor
+Sistema IoT de control de acceso de stack completo, diseñado para espacios de aprendizaje universitarios y construido desde cero: hardware, firmware, backend y dashboard.
 
-### 🔒 Red LoRa Mesh — Comunicación cifrada sin internet
-Red de mensajería privada off-grid basada en LoRa 915MHz para Aguascalientes.
-- **Hardware:** Heltec WiFi LoRa 32 V3 (ESP32-S3 + SX1262)
-- **Protocolo:** Meshtastic con cifrado AES-128
-- **Objetivo:** Red mesh comunitaria, privada y descentralizada
+- **Hardware:** 3 nodos ESP32 NodeMCU + sensores NFC/RFID PN532
+- **Firmware:** MicroPython
+- **Backend:** FastAPI (Python) con arquitectura SOA
+- **Base de datos:** MySQL con procedimientos almacenados, triggers y lógica Anti-Passback
+- **Frontend:** Dashboard web con métricas de Business Intelligence en tiempo real
+- **Hardware adicional:** Diseño de PCBs personalizadas (EasyEDA), carcasas impresas en 3D
+- **Estándares:** Modelo de calidad ISO 25010
+- **Seguridad:** Autenticación RFID, control de acceso por roles, prevención de tailgating
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### 🤖 Furibot — Bot de Moderación para Discord
+
+Bot de moderación para múltiples servidores con escalada progresiva automática de sanciones.
+
+- **Stack:** Python + Discord API + Supabase
+- **Lógica:** Sistema progresivo advertencia → silencio → expulsión → baneo, con historial persistente entre servidores
+
+---
+
+### 📡 Red Mesh LoRa — Comunicación privada sin infraestructura
+
+Red de mensajería privada fuera de red usando hardware LoRa 915MHz para la zona de Aguascalientes.
+
+- **Hardware:** Heltec WiFi LoRa 32 V3 (ESP32-S3 + SX1262)
+- **Firmware:** Meshtastic
+- **Cifrado:** AES-128
+- **Objetivo:** Desplegar una red comunitaria local — privada, descentralizada e independiente de infraestructura
+
+---
+
+## 🛠️ Tecnologías y Herramientas
 
 **Lenguajes**
 `Python` `C++ (Arduino/ESP32)` `MicroPython` `SQL` `Java` `JavaScript`
 
-**IoT & Hardware**
-`ESP32` `Raspberry Pi` `Arduino` `PN532 NFC` `LoRa SX1262` `Protocolos I2C/SPI/UART`
+**IoT y Hardware**
+`ESP32` `Arduino` `PN532 NFC/RFID` `LoRa SX1262` `I2C` `SPI` `UART` `EasyEDA (diseño de PCB)`
 
-**Backend & Datos**
+**Backend y Bases de Datos**
 `FastAPI` `MySQL` `PostgreSQL` `Supabase` `REST APIs`
 
 **Seguridad**
-`Anti-Passback` `Autenticación NFC` `Control de acceso` `Cifrado AES`
+`Autenticación NFC/RFID` `Anti-Passback` `Control de Acceso por Roles` `Cifrado AES`
 
-**Herramientas**
-`Git` `Linux` `EasyEDA` `PlatformIO` `Arduino IDE`
-
-**Aprendiendo**
-`Power BI` `Pandas` `Análisis de datos IoT`
+**Herramientas y Entorno**
+`Git` `Linux` `PlatformIO` `Arduino IDE`
 
 ---
 
 ## 🌐 Idiomas
 
-| Idioma | Nivel |
-|--------|-------|
-| Español | Nativo |
-| Inglés | C1 |
-| Alemán | A2 |
-| Japonés | N5 |
+| Idioma   | Nivel |
+|----------|-------|
+| Español  | Nativo |
+| Inglés   | Dominio profesional |
+| Alemán   | Elemental (A2) |
+| Japonés  | Principiante (JLPT N5) |
 
 ---
 
-## 🎯 Objetivos profesionales
+## 🎯 Objetivos Profesionales
 
-Busco desarrollarme en el área de **IoT industrial y ciberseguridad**, aplicando telemetría, autenticación segura y análisis de datos para optimizar procesos en entornos de manufactura e innovación tecnológica.
+Busco crecer en **IoT industrial y sistemas embebidos**, aplicando telemetría, autenticación segura y captura de datos de hardware para optimizar procesos en entornos de manufactura e Industria 4.0.
 
-Orientado a realizar estadías profesionales en empresas donde la captura de datos de hardware se convierta en información valiosa para la toma de decisiones — sectores automotriz, manufactura e industria 4.0.
+En búsqueda activa de estadías en los sectores automotriz, manufactura y tecnología industrial — especialmente en empresas donde la brecha entre hardware y software es donde viven los problemas reales.
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
-[![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)](https://github.com/Javiz270)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)](https://github.com/Javiz270)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)](https://github.com/Javiz270)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)](https://github.com/Javiz270)
 
 ---
 
 ## 📫 Contacto
 
 - **LinkedIn:** [linkedin.com/in/javier-santos-cervantes-5248461b3](https://www.linkedin.com/in/javier-santos-cervantes-5248461b3)
-- **Email:** javiersantos0125@gmail.com
+- **Correo:** javiersantos0125@gmail.com
 - **Discord:** javiz270
