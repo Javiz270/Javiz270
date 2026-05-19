@@ -1,34 +1,49 @@
-[🇲🇽 🇪🇸 Versión Español](./README.md)
+[🇲🇽 Versión en Español](./README_ES.md)
+
 # Hi, I'm Javier Santos 👋
 
-> TSU Student — Information Technology & Software Development | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
+> TSU Student in Crossplatform Software Development | Universidad Tecnológica El Retoño, Aguascalientes 🇲🇽
 
-I'm passionate about building solutions where **software, hardware, and security** intersect. With a background in Mechatronics, I approach projects from an end-to-end perspective — from the sensor to the dashboard.
+I'm passionate about building solutions where **software, hardware, and security** intersect. With 2 quarters of Mechatronics before switching to Software Development, I approach projects from an end-to-end perspective — from the sensor to the dashboard.
 
-My current focus is **IoT, cybersecurity, and data analysis**, aiming to grow in industrial tech environments.
+My current focus is **IoT and embedded systems**, aiming to grow in industrial tech environments where hardware data becomes actionable intelligence.
 
 ---
 
 ## 🚀 Active Projects
 
-### 📡 S.A.R.A. — Automated Access and Resource System
-IoT access control and resource management system designed for university learning spaces.
-- **Hardware:** 3 ESP32 NodeMCU nodes + PN532 NFC sensors (MicroPython)
-- **Backend:** FastAPI with SOA architecture, MySQL with Anti-Passback logic
-- **Features:** APScheduler for automated reports, Business Intelligence dashboard
-- **Security:** NFC authentication, role-based access control, tailgating prevention
+### 📡 S.A.R.A. — Automated Access and Registration System
+
+Full-stack IoT access control system designed for university learning spaces, built from the ground up — hardware, firmware, backend, and dashboard.
+
+- **Hardware:** 3 ESP32 NodeMCU nodes + PN532 NFC/RFID sensors
+- **Firmware:** MicroPython
+- **Backend:** FastAPI (Python) with SOA architecture
+- **Database:** MySQL with stored procedures, triggers, and Anti-Passback logic
+- **Frontend:** Web dashboard with real-time Business Intelligence metrics
+- **Hardware extras:** Custom PCB design (EasyEDA), 3D-printed enclosures
+- **Standards:** ISO 25010 quality model
+- **Security:** RFID authentication, role-based access control
+
+---
 
 ### 🤖 Furibot — Discord Moderation Bot
-Multi-server moderation bot with automatic progressive sanction escalation.
-- **Stack:** Python + Discord API + Supabase
-- **Logic:** Progressive warn → mute → kick → ban system with persistent history
-- **In development:** AI module (Gemini API) for context analysis and automated decision-making, per-server automated news system
 
-### 🔒 LoRa Mesh Network — Encrypted off-grid communication
-Private off-grid messaging network based on LoRa 915MHz for Aguascalientes.
+Multi-server moderation bot with automatic progressive sanction escalation.
+
+- **Stack:** Python + Discord API + Supabase
+- **Logic:** Progressive warn → mute → kick → ban system with persistent history across servers
+
+---
+
+### 📡 LoRa Mesh Network — Off-grid private communication
+
+Off-grid private messaging network using LoRa 915MHz hardware for the Aguascalientes area.
+
 - **Hardware:** Heltec WiFi LoRa 32 V3 (ESP32-S3 + SX1262)
-- **Protocol:** Meshtastic with AES-128 encryption
-- **Goal:** Community mesh network, private and decentralized
+- **Firmware:** Meshtastic
+- **Encryption:** AES-128
+- **Goal:** Deploy a local community mesh — private, decentralized, infrastructure-independent
 
 ---
 
@@ -38,19 +53,16 @@ Private off-grid messaging network based on LoRa 915MHz for Aguascalientes.
 `Python` `C++ (Arduino/ESP32)` `MicroPython` `SQL` `Java` `JavaScript`
 
 **IoT & Hardware**
-`ESP32` `Raspberry Pi` `Arduino` `PN532 NFC` `LoRa SX1262` `I2C/SPI/UART protocols`
+`ESP32` `Arduino` `PN532 NFC/RFID` `LoRa SX1262` `I2C` `SPI` `UART` `EasyEDA (PCB design)`
 
-**Backend & Data**
+**Backend & Databases**
 `FastAPI` `MySQL` `PostgreSQL` `Supabase` `REST APIs`
 
 **Security**
-`Anti-Passback` `NFC Authentication` `Access Control` `AES Encryption`
+`NFC/RFID Authentication` `Anti-Passback` `Role-Based Access Control` `AES Encryption`
 
-**Tools**
-`Git` `Linux` `EasyEDA` `PlatformIO` `Arduino IDE`
-
-**Learning**
-`Power BI` `Pandas` `IoT Data Analysis`
+**Tools & Environment**
+`Git` `Linux` `PlatformIO` `Arduino IDE`
 
 ---
 
@@ -58,22 +70,22 @@ Private off-grid messaging network based on LoRa 915MHz for Aguascalientes.
 
 | Language | Level |
 |----------|-------|
-| Spanish | Native |
-| English | C1 |
-| German | A2 |
-| Japanese | N5 |
+| Spanish  | Native |
+| English  | Professional working proficiency |
+| German   | Elementary (A2) |
+| Japanese | Beginner (JLPT N5) |
 
 ---
 
 ## 🎯 Professional Goals
 
-I'm looking to grow in **industrial IoT and cybersecurity**, applying telemetry, secure authentication, and data analysis to optimize processes in manufacturing and Industry 4.0 environments.
+I'm looking to grow in **industrial IoT and embedded systems**, applying telemetry, secure authentication, and hardware data capture to optimize processes in manufacturing and Industry 4.0 environments.
 
-Actively seeking internships at companies where hardware data capture becomes actionable intelligence — automotive, manufacturing, and tech sectors.
+Actively seeking internships in automotive, manufacturing, and industrial tech sectors — especially at companies where the gap between hardware and software is where the real problems live.
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javiz270&show_icons=true&theme=radical)](https://github.com/Javiz270)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiz270&layout=compact&theme=radical)](https://github.com/Javiz270)
