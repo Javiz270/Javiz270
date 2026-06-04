@@ -97,3 +97,5 @@ Actively seeking internships in automotive, manufacturing, and industrial tech s
 - **LinkedIn:** [linkedin.com/in/javier-santos-cervantes-5248461b3](https://www.linkedin.com/in/javier-santos-cervantes-5248461b3)
 - **Email:** javiersantos0125@gmail.com
 - **Discord:** javiz270
+
+- .
