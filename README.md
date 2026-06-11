@@ -98,4 +98,4 @@ Actively seeking internships in automotive, manufacturing, and industrial tech s
 - **Email:** javiersantos0125@gmail.com
 - **Discord:** javiz270
 
-- 
+- .
